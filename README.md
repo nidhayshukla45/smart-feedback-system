@@ -98,7 +98,7 @@ http://localhost/smart-feedback-system/view_feedback.php
 Nidhay Shukla
 🎓 MSc IT Student | 💻 Web Developer | 🐍 Python Enthusiast
 📍 Based in Chhatrapati Sambhajinagar (Aurangabad), India
-🔗 Connect on LinkedIn
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/nidhay-shukla-4326a0343)
 
 
 ---
